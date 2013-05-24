@@ -11,7 +11,7 @@
 
 ## Basic Environment Setup
   **ETOC: 1.5 Days**  
-  *Mastery Task: [Ruby Koans]: https://github.com/neo/ruby_koans Environment is setup*  
+  *Mastery Task: [Ruby Koans](https://github.com/neo/ruby_koans) Environment is setup*  
 ####Topics
   * iterm  
   * textmate2  
