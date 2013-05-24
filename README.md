@@ -1,5 +1,4 @@
 # Databasically Internship Program | 2013
-=========================================
 
 ## Goals
 ####The Intern will
