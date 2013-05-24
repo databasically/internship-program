@@ -1,4 +1,3 @@
-
 ## Schedule
 **Start Date: 06/06/2013 (Thursday)**
 **End Date: 08/14/2013 (Wednesday)**
@@ -8,6 +7,7 @@
 *Mastery Task: End of Day "What I Learned" Snippet*
   * Hours
   * Document the Learning Process
+
 #### Basic Environment Setup
 **ETOC: 1.5 Days**
 *Mastery Task: [Ruby Koans]: https://github.com/neo/ruby_koans Environment is setup*
@@ -17,6 +17,7 @@
   * rake
   * bundler
   * Gemfile (including exposure to rubygems and github repos)
+
 #### Communication
 **ETOC: 2 Days**
 *Mastery Task: Harvest Automation User Stories*
@@ -31,6 +32,7 @@
   * client review user stories (Wes) (30 min max)
   * review meeting (Chad) (5 min max)
   * user stories refactor
+
 #### Development Environment Setup
 **ETOC: 2 Days**
 *Mastery Task: ruby gem ready for development*
@@ -38,6 +40,7 @@
   * create gem
   * Rspec
   * guard
+
 #### TDD
 **ETOC: 15 Days**
 *Mastery Task: Harvest Automation Gem*
