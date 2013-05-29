@@ -6,8 +6,10 @@
   **Estimated Time of Completion (ETOC): 0.5 Days**  
   *Mastery Task: End of Day "What I Learned" Snippet*  
 ####Topics
-  * Hours  
-  * Document the Learning Process
+  * Employment paperwork (license & social security card)
+  * Hours
+  * Harvest
+  * Document the Learning Process (markdown)
 
 ## Basic Environment Setup
   **ETOC: 1.5 Days**  
