@@ -20,7 +20,7 @@
   * rvm  
   * rake  
   * bundler  
-  * Gemfile (including exposure to rubygems and github repos)
+  * Gemfile (including exposure to gems and git repos)
 
 ## Communication  
   **ETOC: 2 Days**  
