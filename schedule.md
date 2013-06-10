@@ -23,7 +23,7 @@
   * Gemfile (including exposure to gems and git repos)
 
 ## Communication  
-  **ETOC: 2 Days**  
+  **ETOC: 1 Days**  
   *Mastery Task: Harvest Automation User Stories*  
 ####Topics
   * user story structure and value
@@ -42,14 +42,16 @@
   * user stories refactor
 
 ## Development Environment Setup  
-  **ETOC: 2 Days**  
+  **ETOC: 1/2 Days**  
   *Mastery Task: ruby gem ready for development*  
 ####Topics
   * git  
-  * create gem  
+  * bundle gem  
   * Rspec  
   * guard
 
 ## TDD  
   **ETOC: 15 Days**  
   *Mastery Task: Harvest Automation Gem*  
+  * 1 Hour Pair Programming to kick off development
+  * 5 min Code review every morning
