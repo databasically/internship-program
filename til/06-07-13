@@ -1,1 +1,4 @@
-* I am learning how to use a fork
+#06/07/2013
+* Today I learned some Git features, forking and pull requests. Forking creates a duplicate of the repository that can be written to, and pull requests send a request to the original owner of the repository to merge in the changes made in the other branches.
+* Today I learned about keyword arguments in Ruby. These allow the caller to omit them as they have a default value as well as call them by name with their keyword.
+* Today I learned how to set up bash and rvm to display information about the gemsets and eviornment in the bash prompt. This will help me to keep track of my enviornments across projects and ensure I'm using the right envoirnment for each project.
