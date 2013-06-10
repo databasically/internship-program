@@ -30,8 +30,8 @@
   * project communication
 
 ####Details
-  * conduct information meeting with client (Wes) about Harvest Automation project (1 hour max)  
   * project planning meeting with team manager (Chad) (15 min max)  
+  * conduct information meeting with client (Wes) about Harvest Automation project (1 hour max)  
   * project user stories  
   * review meeting (Chad) (30 min max)  
   * user stories refactor  
