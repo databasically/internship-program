@@ -22,7 +22,7 @@
   * bundler  
   * Gemfile (including exposure to gems and git repos)
 
-## Communication  
+## Communication
   **ETOC: 1 Days**  
   *Mastery Task: Harvest Automation User Stories*  
 ####Topics
