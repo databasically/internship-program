@@ -50,8 +50,18 @@
   * Rspec  
   * guard
 
-## TDD  
+## Style Introdution
+  **ETOC: 3 1/2 Days**
+  *Mastery Task: Contstruct RTanque bot using ruby style*
+####Topics
+  * tell, don't ask
+  * object oriented
+  * small, discrete methods
+  * descriptive naming
+
+## TDD
   **ETOC: 15 Days**  
   *Mastery Task: Harvest Automation Gem*  
   * 1 Hour Pair Programming to kick off development
   * 5 min Code review every morning
+  * 1 hour Code Review on Second day to compare own code to someone else that solved the same problem
