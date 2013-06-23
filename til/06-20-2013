@@ -1,0 +1,2 @@
+#TIL 06-20-2013
+* Today I learned about coupling. Coupling is the dependence of one part of a program on another. In a highly coupled program, it is more difficult to adapt to changing situations and make changes because a change to one part of the program necessitates a change in another part, and is bad design.
