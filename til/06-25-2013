@@ -1,0 +1,2 @@
+#TIL 06-25-2013
+* Today I learned to use VCR when running tests dependant on other systems. VCR records the responses of the other systems and stores them for future tests, helping to create an isolated development enviornment.
