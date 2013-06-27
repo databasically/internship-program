@@ -1,0 +1,2 @@
+# TIL 06-27-2013
+* Today I learned various methods for executing bash commands from inside of a Ruby script. These are helpful for interacting with and making use of other programs.
