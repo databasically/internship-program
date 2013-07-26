@@ -1,0 +1,2 @@
+#TIL 06-24-2013
+* Today I learned how to build a JSON file from a hash in ruby. This is useful for easily working with API's that require structured information.
