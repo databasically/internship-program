@@ -1,0 +1,2 @@
+#TIL 09-10-2013
+* Today I learned how to set up environment variables. Using environment variables allows you to keep your configuration separated from your code in your app. This is important because configuration can vary between deploys of the app.
